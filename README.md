@@ -12,4 +12,4 @@
 # Sonstiges
 Achtung: Passwort wird im Klartext in der Batchdatei abgespeichert!
 * Alternativ kann die Batchdatei durch ein Programm in eine .exe umgewandelt werden, wodurch das Passwort nicht mehr einsehbar ist.
-* Bspw.: [bat2exe](https://bat2exe.net/) oder [https://www.battoexe.com/](battoexe)
+* Bspw.: [bat2exe](https://bat2exe.net/) oder [battoexe](https://www.battoexe.com/)
