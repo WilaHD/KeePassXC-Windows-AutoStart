@@ -1,0 +1,1 @@
+# KeePassXC-Windows-AutoStart
