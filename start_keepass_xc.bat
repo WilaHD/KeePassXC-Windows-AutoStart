@@ -3,5 +3,5 @@ set databasepath=C:\Path\to\Database.kdbx
 set password=yourPassword
 
 taskkill.exe /IM keepassxc.exe
-@ping -n 2 localhost> nul
+@ping -n 2 localhost> null
 echo %password%|start "KeePassXC" /B "%keepassfolder%" --pw-stdin "%databasepath%"
